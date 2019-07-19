@@ -35,3 +35,4 @@ function processDivChange() {
 			document.getElementById('div1').innerHTML = xhr.responseText;
 
 	}
+}
